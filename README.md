@@ -4,7 +4,7 @@ Interpreter[Parser Translator] for 2048 using C, Flex, Bison
 ROHIT GARG
 2018A7PS0193G
 
-##INTERPRETER FOR 2048 GAME USING C, FLEX, BISON##
+#INTERPRETER FOR 2048 GAME USING C, FLEX, BISON#
 
 The Game architecture consists of 3 sections:
 A. 2048 game implementation and interface file [driver.c and driver.h file respectively]
@@ -15,15 +15,15 @@ C. Parser [parser.y]
 
 
 ## The Contents of zip submission file are as follows:
-driver.h
-driver.c
-scanner.l
-parser.y 
-Makefile 
-README.txt
+* driver.h
+* driver.c
+* scanner.l
+* parser.y 
+* Makefile 
+* README.txt
 
 
-##For Compilation:
+#For Compilation:
 
 1) In terminal execute:
 make
