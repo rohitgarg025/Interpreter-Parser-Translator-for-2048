@@ -6,7 +6,7 @@ ROHIT GARG
 
 #INTERPRETER FOR 2048 GAME USING C, FLEX, BISON#
 
-The Game architecture consists of 3 sections:
+## The Game architecture consists of 3 sections:
 A. 2048 game implementation and interface file [driver.c and driver.h file respectively]
 B. Scanner [scanner.l]
 C. Parser [parser.y]
